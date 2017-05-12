@@ -2,6 +2,7 @@
   "name": "react05",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://bettem2017.github.io/react05",
   "devDependencies": {
     "gh-pages": "^1.0.0",
     "react-scripts": "0.9.5"
